@@ -1,0 +1,9 @@
+ffmpeg-python
+whisper
+torch
+googletrans==4.0.0-rc1
+TTS
+moviepy
+opencv-python
+numpy
+deepface
